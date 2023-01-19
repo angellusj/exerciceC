@@ -1,1 +1,1 @@
-# exerciceC
+# Exercicio em C
